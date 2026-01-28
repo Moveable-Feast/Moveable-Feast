@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="1024" height="1025" alt="8314152_cropped" src="https://github.com/user-attachments/assets/7dd8989d-5c93-4cb0-acb3-e3a5dd992601" />
+
+
 <!--
 **Moveable-Feast/Moveable-Feast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

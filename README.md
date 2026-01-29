@@ -35,9 +35,9 @@
   <em>“Don't be so serious.”</em>
 </p>
 
-<div align="center">
-*INTJ-4w5*
-</div>
+<p align="center">
+  INTJ-4w5
+</p>
 
 ### 🎯 游戏
 - 明日方舟（主推**深靛**）

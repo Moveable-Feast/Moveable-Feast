@@ -16,7 +16,7 @@
   <p>
     <img src="https://img.shields.io/badge/🎮-代码本当上手-FF6B6B" alt="代码苦手">
     <img src="https://img.shields.io/badge/☕-咖啡因依赖者-8B4513" alt="咖啡爱好者">
-    <img src="https://img.shields.io/badge/🐱-国产二游玩家-C9ADA7" alt="博管开漂">
+    <img src="https://img.shields.io/badge/🐱-国产二游玩家-C9ADA7" alt="漂拓博">
   </p>
   
 </div>
@@ -39,7 +39,7 @@
 ### 🎯 游戏
 - 明日方舟（主推**深靛**）
 - 崩坏：星穹铁道（主推**遐蝶**）
-- 鸣潮（主推**露帕**）（漂泊ing... 寻找*爱弥斯*ing...）
+- 鸣潮（主推**露帕**、**珂莱塔**）（漂泊ing...寻找*爱弥斯*ing...）
 
 ### 🎵 歌单
 - [**Duvet** by **BǒA**](https://music.163.com/#/song?id=3956911)

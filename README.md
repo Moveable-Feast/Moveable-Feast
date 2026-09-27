@@ -14,9 +14,9 @@
   
   <!-- 个性标签云 -->
   <p>
-    <img src="https://img.shields.io/badge/🎮-代码本当上手-FF6B6B" alt="代码苦手">
-    <img src="https://img.shields.io/badge/☕-咖啡因依赖者-8B4513" alt="咖啡爱好者">
-    <img src="https://img.shields.io/badge/🐱-国产二游玩家-C9ADA7" alt="漂拓博">
+    <img src="https://img.shields.io/badge/🎮-Codes-FF6B6B" alt="代码苦手">
+    <img src="https://img.shields.io/badge/☕-Coffee-8B4513" alt="咖啡爱好者">
+    <img src="https://img.shields.io/badge/🐱-Game Player-C9ADA7" alt="漂拓博">
   </p>
   
 </div>

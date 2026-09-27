@@ -38,8 +38,8 @@
 
 ### 🎯 Video Games
 - Arknights (fav char: Mon3tr)
-- Honkai: Star Rail (fav char: Evernight)
-- Wuthering Waves (fav char: Hsin)
+- Honkai: Star Rail (fav char: Pearl)
+- Wuthering Waves (fav char: Yangyang)
 
 ### 🎵 Music List
 - [**Duvet** by **BǒA**](https://music.163.com/#/song?id=3956911)
